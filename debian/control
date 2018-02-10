@@ -29,7 +29,6 @@ Depends: ${misc:Depends}
  , dnsutils
  , dosfstools
  , haveged
- , how-can-i-help
  , htop
  , iftop
  , iptables
