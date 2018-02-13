@@ -55,5 +55,8 @@ Depends: ${misc:Depends}
  , zile
 Recommends:
  rfkill
-Description: Package to set up freedombox environment
- Configure the Freedombox environment before and after the first reboot.
+Description: Configure the FreedomBox environment
+ Installing FreedomBox changes your Debian system in many important
+ ways. This includes installing a firewall and regenerating server
+ certificates. It is therefore recommended that you install FreedomBox
+ on a fresh Debian installation instead of an existing setup.
